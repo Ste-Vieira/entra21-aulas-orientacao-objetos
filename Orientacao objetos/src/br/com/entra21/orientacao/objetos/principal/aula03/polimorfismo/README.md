@@ -12,5 +12,4 @@
 	- Essa forma obriga o meu método sobreescrito ter a mesma sintaxe da herança
 	- Posso aproveitaar o comportamento herdado com o Super e fazer um diferencial
 	- Posso não aproveitar nada e fazer do meu jeito
-> 6.
 
